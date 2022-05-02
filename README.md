@@ -1,2 +1,3 @@
 # json-snippet
-Created with CodeSandbox
+JSON snippet made by me.
+Next js
