@@ -1,0 +1,19 @@
+{
+    "name": "",
+    "nodes": [
+      {
+        "nodeName": "test",
+        "algorithmName": "algorithm test",
+        "input": ["one", "two", "three", "four", "five"]
+      }
+    ],
+    "flowInput": {
+      "files": {}
+    },
+    "webhooks": {
+      "progress": "prg",
+      "result": ""
+    },
+    "priority": 1,
+    "options": []
+}
